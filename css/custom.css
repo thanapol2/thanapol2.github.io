@@ -1,2 +1,5 @@
-
-/** ADD YOUR AWESOME CODES HERE **/
+ #map {
+   width: 100%;
+   height: 400px;
+   background-color: grey;
+ }
